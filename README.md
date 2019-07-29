@@ -6,4 +6,4 @@ Computer Vision Program for the detection of space-time interest points on video
 
 2) Creation of space-time histografic descriptors.
 
-3) Creation of dendrograms for the separation of the activities.
+3) Creation of dendrograms for the discrimination of the activities.
